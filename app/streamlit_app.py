@@ -644,7 +644,7 @@ def render_analyze():
         y=alt.Y("price:Q", title="가격 (원/kg)"),
     )
     st.altair_chart(box.properties(height=360), use_container_width=True)
-    st.caption("출하기(11~5월) 가격이 높고, 비출하기(6~10월)는 거래 자체가 거의 없음")
+    st.caption("출하기(11월–5월) 가격이 높고, 비출하기(6월–10월)는 거래 자체가 거의 없음")
 
     # 연도별 트렌드
     st.markdown("<h2 class='section-title'>📅 연도별 평균가 추이</h2>", unsafe_allow_html=True)
