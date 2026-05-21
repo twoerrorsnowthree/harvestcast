@@ -7,10 +7,11 @@ venv/
 .ipynb_checkpoints/
 
 # 데이터: raw는 원본 보존을 위해 깃에 올려도 되지만, processed는 재생성 가능하므로 제외
-data/processed/
-!data/processed/merged_daily.csv   # Streamlit 배포용 — 필수
-figures/
-!figures/.gitkeep                  # 폴더 구조만 유지
+# 단, Streamlit 배포에 필요한 merged_daily.csv 는 예외로 포함
+data/processed/*
+!data/processed/merged_daily.csv
+figures/*
+!figures/.gitkeep
 
 # OS
 .DS_Store
