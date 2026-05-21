@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 데이터: raw는 원본 보존을 위해 깃에 올려도 되지만, processed는 재생성 가능하므로 제외
+data/processed/
+!data/processed/merged_daily.csv   # Streamlit 배포용 — 필수
+figures/
+!figures/.gitkeep                  # 폴더 구조만 유지
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# 인증/비밀
+.env
+.env.*
+secrets.json
+*.key
+*credentials*
+
+# Jupyter
+*.ipynb_checkpoints

@@ -1,0 +1,3305 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+	<title>가격정보 - 친환경농산물 - 품목별 엑셀 출력</title>
+	<meta http-equiv="Content-Type" content="application/vnd.ms-excel;charset=utf-8">
+	<style type="text/css">
+		table caption	{ text-align:left; }
+		table th		{ background-color:#eff2f9; }
+		table td		{ mso-number-format:\@; text-align:general; vertical-align:middle; text-align:center; white-space:nowrap; mso-rotate:0; mso-background-source:auto; mso-pattern:auto; color:black; font-size:11.0pt; font-style:normal; text-decoration:none; font-family:"맑은 고딕", monospace; mso-font-charset:129; border:1px; mso-protection:locked visible; mso-style-name:표준; mso-style-id:0; }
+		table td.c		{ text-align:center;}
+		table td.l		{ text-align:left; }
+		table td.r		{ text-align:right; }
+	</style>
+</head>
+<body>
+	<table>
+		<tr>
+			<td	class="data">
+				<table id="data" border="1px">
+					
+									<caption>가락시장 
+									
+										
+										
+											딸기 설향, 등급:, 단위:
+										
+									
+									경락가격 정보</caption>
+									<colgroup>
+		                                 <col>
+		                                 <col>
+		                                 <col>
+		                                 <col>
+		                                 <col>
+		                                 <col>
+		                            </colgroup>
+									<!-- header 생성 -->
+									<thead>
+										<tr>
+											<th scope="col" style="position: relative;">일자<button type="button" class="btn ic sort" onclick="fncSortTbl(this, '#itemTable_1', 'desc');" title="기본 정렬됨"><i class="feather icon-align-justify"></i></button></th>
+											<th scope="col">시장</th>
+											<th scope="col">품목</th>
+											<th scope="col">단위</th>
+											<th scope="col">등급</th>
+											<th scope="col">평균가</th>
+										</tr>
+									</thead>
+		                            <tbody>
+		                            	
+		                            		
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.31</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>20,505</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.31</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>42,347</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.31</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>19,355</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.31</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>37,320</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.31</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>31,707</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.31</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>17,214</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.31</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>8,584</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.31</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>18,621</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>19,194</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>42,201</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>18,042</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>35,900</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>16,229</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>31,237</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>10,570</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>19,495</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>44,366</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>19,478</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>18,135</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>36,402</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>16,629</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>32,728</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>21,250</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>12,017</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>24,277</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>46,507</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>41,613</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>23,440</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>21,876</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>37,958</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>27,813</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>14,600</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>50,438</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>25,696</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>24,271</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>47,374</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>22,152</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>43,408</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>15,164</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>31,505</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>25,099</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>47,367</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>22,566</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>43,759</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>20,208</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>40,317</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>16,217</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>31,529</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.24</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>46,362</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.24</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>24,361</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.24</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>23,712</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.24</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>42,157</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.24</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>22,330</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.24</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>39,275</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.24</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>33,550</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.24</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>16,244</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>24,439</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>52,693</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>43,882</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>23,053</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>19,465</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>39,702</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>15,367</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>34,937</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>19,886</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>49,673</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>18,888</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>41,306</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>36,881</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>16,942</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>12,733</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>31,871</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>18,834</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>46,921</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>17,469</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>41,176</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>16,685</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>37,042</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>14,228</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>33,242</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>19,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>47,799</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>18,156</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>41,932</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>17,195</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>38,947</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>13,770</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>35,323</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>18,615</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>44,339</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>17,924</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>39,152</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>16,987</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>36,911</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>14,388</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>33,137</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.17</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>40,709</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.17</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>20,414</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.17</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>17,678</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.17</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>36,904</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.17</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>16,475</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.17</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>34,403</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.17</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>29,501</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.17</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>13,315</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>41,711</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>18,861</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>18,194</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>37,768</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>16,604</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>35,101</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>30,402</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>13,813</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>24,005</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>44,004</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>19,491</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>39,693</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>36,790</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>17,318</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>13,667</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>31,413</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>26,599</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>49,614</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>25,678</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>44,468</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>42,092</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>21,949</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>16,586</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>37,302</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>23,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>47,451</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>44,794</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>22,493</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>21,448</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>41,782</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>36,373</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>15,742</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>21,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>42,957</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>19,962</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>39,327</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>36,731</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>18,952</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>13,468</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>32,497</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.10</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>18,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.10</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>38,837</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.10</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>17,325</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.10</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>35,644</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.10</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>33,362</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.10</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>16,608</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.10</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>29,081</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.10</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>13,849</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>41,630</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>19,296</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>18,169</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>36,168</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>16,585</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>33,270</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>28,975</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>13,020</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>21,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>47,534</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>39,865</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>19,416</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>15,268</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>35,972</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>11,168</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>29,173</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>22,905</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>48,695</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>21,551</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>42,876</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>20,509</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>39,818</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>15,267</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>35,188</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>23,600</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>47,537</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>22,464</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>44,278</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>20,923</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>42,441</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>14,294</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>38,733</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>23,765</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>48,935</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>43,123</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>20,434</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>18,142</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>40,792</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>13,957</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>36,798</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.03</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>22,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.03</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>49,604</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.03</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>21,333</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.03</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>45,194</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.03</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>19,094</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.03</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>41,039</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.03</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>13,390</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.03</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>35,315</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>23,345</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>52,943</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>47,393</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>22,183</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>20,061</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>43,562</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>14,737</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.12.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>38,549</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>23,348</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>55,335</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>22,677</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>50,994</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>48,300</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>18,576</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>42,132</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>12,934</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.29</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>54,574</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.29</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>21,714</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.29</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>20,085</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.29</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>48,031</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.29</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>17,814</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.29</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>44,382</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.29</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>38,463</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.29</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>13,257</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>50,229</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>19,296</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>17,821</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>46,492</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>16,117</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>43,423</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>37,049</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>10,329</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>49,220</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>19,462</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>17,914</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>42,825</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>16,357</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>39,134</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>11,159</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>33,363</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>48,617</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>18,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>16,795</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>40,058</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>13,193</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>35,053</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>27,182</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>9,278</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>21,313</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>56,062</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>45,537</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>17,592</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>15,107</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>38,991</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>11,417</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>30,673</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>19,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>63,973</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>16,737</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>52,119</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>13,361</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>44,486</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>10,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>34,597</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.22</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>66,014</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.22</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>25,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.22</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>57,056</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.22</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>21,262</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.22</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>49,869</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.22</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>16,418</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.22</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>13,100</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.22</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>38,544</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>68,052</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>20,200</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>19,720</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>60,995</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>16,012</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>52,738</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>10,033</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>40,927</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>21,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>67,910</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>58,873</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>18,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>11,733</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>49,404</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>37,078</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.20</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>7,273</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>16,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>58,839</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>48,937</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>13,500</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>10,556</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>40,309</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>7,048</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>29,350</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>63,089</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>특</td>
+				                            			<td>16,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>상</td>
+				                            			<td>13,500</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>50,638</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>42,967</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>중</td>
+				                            			<td>10,556</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>30,910</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   1키로상자</td>
+				                            			<td>하</td>
+				                            			<td>7,048</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>75,942</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>57,615</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>44,585</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>29,013</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.15</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>90,934</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.15</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>67,267</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.15</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>53,018</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.15</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>38,476</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>81,522</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>64,155</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>49,627</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>33,737</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>88,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>76,719</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>57,950</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>35,246</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>82,844</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>77,081</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>64,203</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>37,828</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>83,682</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>78,142</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>64,492</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>35,030</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>110,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>86,839</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>66,074</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>44,965</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.08</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>103,909</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.08</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>98,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.08</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>88,744</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.08</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>46,703</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>106,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>94,952</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>79,333</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>46,560</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>60,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>58,667</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>53,792</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>37,895</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>94,857</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>91,647</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>79,073</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>46,951</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>100,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>99,625</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>76,158</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>47,552</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>100,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>99,500</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>93,650</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>55,400</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.01</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>특</td>
+				                            			<td>85,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.01</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>상</td>
+				                            			<td>84,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.01</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>중</td>
+				                            			<td>80,529</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.01</td>
+				                            			<td>가락시장</td>
+				                            			<td>딸기 설향</td>
+				                            			<td>   2키로상자</td>
+				                            			<td>하</td>
+				                            			<td>63,667</td>
+				                            		</tr>
+				                            	
+		                            		
+		                            		
+		                            	
+		                            </tbody>
+								
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "trained_at": "2026-05-19T15:52:53",
+  "data_last_date": "2025-12-31",
+  "n_train": 463,
+  "n_val": 99,
+  "n_test": 100,
+  "validation_MAE": 1964.3,
+  "validation_MAPE": 16.46,
+  "test_MAE": 1488.9,
+  "test_MAPE": 20.02,
+  "horizon": 14,
+  "window": 30,
+  "n_params": 103118
+}
